@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+body {
+  margin: auto;
+  max-width: 1000px;
+}
+
+* {
+  font-family: "Open Sans", sans-serif;
+  letter-spacing: 2px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
